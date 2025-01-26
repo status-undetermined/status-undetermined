@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @status-undetermined
-- 👀 I’m interested in Computers
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in computers
+- 🌱 I’m currently learning python
 
 - ⚡ Fun fact: Apples grow on trees
 
